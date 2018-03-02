@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\01_exercise1\bin\Debug\01_exercise1.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\01_exercise1\bin\Debug\01_exercise1.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\01_exercise1\bin\Debug\01_exercise1.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\01_exercise1\obj\Debug\01_面向对象.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\01_exercise1\obj\Debug\01_exercise1.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\01_exercise1\obj\Debug\01_exercise1.pdb

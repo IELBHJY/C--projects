@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\02_搜索排序\bin\Debug\02_搜索排序.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\02_搜索排序\bin\Debug\02_搜索排序.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\02_搜索排序\bin\Debug\02_搜索排序.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\02_搜索排序\obj\Debug\02_搜索排序.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\02_搜索排序\obj\Debug\02_搜索排序.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\02_搜索排序\obj\Debug\02_搜索排序.pdb

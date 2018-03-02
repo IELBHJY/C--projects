@@ -1,0 +1,9 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\bin\Debug\17-04-06.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\bin\Debug\17-04-06.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\bin\Debug\17-04-06.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\obj\Debug\17-04-06.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\obj\Debug\_17_04_06.Form1.resources
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\obj\Debug\_17_04_06.Properties.Resources.resources
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\obj\Debug\17-04-06.csproj.GenerateResource.Cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\obj\Debug\17-04-06.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\17-04-06\17-04-06\obj\Debug\17-04-06.pdb

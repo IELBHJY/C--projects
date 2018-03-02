@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\字符加双引号\字符加双引号\bin\Debug\字符加双引号.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\字符加双引号\字符加双引号\bin\Debug\字符加双引号.exe
+c:\users\lbh\documents\visual studio 2012\Projects\字符加双引号\字符加双引号\bin\Debug\字符加双引号.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\字符加双引号\字符加双引号\obj\Debug\字符加双引号.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\字符加双引号\字符加双引号\obj\Debug\字符加双引号.exe
+c:\users\lbh\documents\visual studio 2012\Projects\字符加双引号\字符加双引号\obj\Debug\字符加双引号.pdb

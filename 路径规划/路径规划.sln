@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flody", "Flody\Flody.csproj", "{576F7039-DFEE-44DA-9362-5354C00FDACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{848B0E7C-3389-455F-A9E7-2F5E178839AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576F7039-DFEE-44DA-9362-5354C00FDACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576F7039-DFEE-44DA-9362-5354C00FDACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576F7039-DFEE-44DA-9362-5354C00FDACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576F7039-DFEE-44DA-9362-5354C00FDACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848B0E7C-3389-455F-A9E7-2F5E178839AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848B0E7C-3389-455F-A9E7-2F5E178839AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848B0E7C-3389-455F-A9E7-2F5E178839AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848B0E7C-3389-455F-A9E7-2F5E178839AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

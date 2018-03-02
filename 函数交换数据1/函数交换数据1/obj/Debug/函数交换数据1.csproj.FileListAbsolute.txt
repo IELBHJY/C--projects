@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\函数交换数据1\函数交换数据1\bin\Debug\函数交换数据1.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\函数交换数据1\函数交换数据1\bin\Debug\函数交换数据1.exe
+c:\users\lbh\documents\visual studio 2012\Projects\函数交换数据1\函数交换数据1\bin\Debug\函数交换数据1.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\函数交换数据1\函数交换数据1\obj\Debug\函数交换数据1.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\函数交换数据1\函数交换数据1\obj\Debug\函数交换数据1.exe
+c:\users\lbh\documents\visual studio 2012\Projects\函数交换数据1\函数交换数据1\obj\Debug\函数交换数据1.pdb

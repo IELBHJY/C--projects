@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\do循环\do循环\bin\Debug\do循环.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\do循环\do循环\bin\Debug\do循环.exe
+c:\users\lbh\documents\visual studio 2012\Projects\do循环\do循环\bin\Debug\do循环.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\do循环\do循环\obj\Debug\do循环.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\do循环\do循环\obj\Debug\do循环.exe
+c:\users\lbh\documents\visual studio 2012\Projects\do循环\do循环\obj\Debug\do循环.pdb

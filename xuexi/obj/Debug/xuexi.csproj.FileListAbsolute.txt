@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\xuexi\bin\Debug\xuexi.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\xuexi\bin\Debug\xuexi.exe
+c:\users\lbh\documents\visual studio 2012\Projects\xuexi\bin\Debug\xuexi.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\xuexi\obj\Debug\xuexi.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\xuexi\obj\Debug\xuexi.exe
+c:\users\lbh\documents\visual studio 2012\Projects\xuexi\obj\Debug\xuexi.pdb

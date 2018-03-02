@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\02_数码出现次数\bin\Debug\02_数码出现次数.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\02_数码出现次数\obj\Debug\02_数码出现次数.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\02_数码出现次数\bin\Debug\02_数码出现次数.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\02_数码出现次数\bin\Debug\02_数码出现次数.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\02_数码出现次数\obj\Debug\02_数码出现次数.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\02_数码出现次数\obj\Debug\02_数码出现次数.pdb

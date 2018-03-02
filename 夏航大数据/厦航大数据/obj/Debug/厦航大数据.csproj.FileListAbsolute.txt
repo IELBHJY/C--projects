@@ -1,0 +1,8 @@
+c:\users\dell\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\bin\Debug\厦航大数据.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\bin\Debug\新建 Microsoft Access Database.accdb
+c:\users\dell\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\bin\Debug\厦航大数据.exe
+c:\users\dell\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\bin\Debug\厦航大数据.pdb
+c:\users\dell\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\obj\Debug\厦航大数据.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\obj\Debug\厦航大数据.exe
+c:\users\dell\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\obj\Debug\厦航大数据.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\夏航大数据\厦航大数据\obj\Debug\厦航大数据.csproj.ResolveComReference.cache

@@ -1,0 +1,15 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\obj\Debug\02_similar_photo.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\bin\Debug\02_similar_photo.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\bin\Debug\02_similar_photo.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\bin\Debug\02_similar_photo.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\bin\Debug\AForge.dll
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\bin\Debug\AForge.xml
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\obj\Debug\02_similar_photo.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\02_similar_photo\obj\Debug\02_similar_photo.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\02_similar_photo\bin\Debug\02_similar_photo.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\02_similar_photo\bin\Debug\02_similar_photo.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\02_similar_photo\bin\Debug\02_similar_photo.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\02_similar_photo\bin\Debug\AForge.xml
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\02_similar_photo\obj\Debug\02_similar_photo.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\02_similar_photo\obj\Debug\02_similar_photo.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\02_similar_photo\obj\Debug\02_similar_photo.pdb

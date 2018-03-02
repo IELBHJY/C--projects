@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\10_Dictionary\bin\Debug\10_Dictionary.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\10_Dictionary\bin\Debug\10_Dictionary.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\10_Dictionary\bin\Debug\10_Dictionary.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\10_Dictionary\obj\Debug\10_Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\10_Dictionary\obj\Debug\10_Dictionary.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\10_Dictionary\obj\Debug\10_Dictionary.pdb

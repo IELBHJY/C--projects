@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\kinect_photos\bin\Debug\kinect_photos.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\kinect_photos\obj\Debug\kinect_photos.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\kinect_photos\bin\Debug\kinect_photos.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\kinect_photos\bin\Debug\kinect_photos.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\kinect_photos\obj\Debug\kinect_photos.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\kinect_photos\obj\Debug\kinect_photos.pdb

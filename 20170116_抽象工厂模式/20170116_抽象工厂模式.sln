@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20170116_抽象工厂模式", "20170116_抽象工厂模式\20170116_抽象工厂模式.csproj", "{DC8BF347-A3FF-4449-BC5F-BBC7317581C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_鸭脖鸭架实例", "01_鸭脖鸭架实例\01_鸭脖鸭架实例.csproj", "{802D0133-2E29-40A6-AECE-88B924A40B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_三种模式之间的区别", "03_三种模式之间的区别\03_三种模式之间的区别.csproj", "{3736D7F5-0EA5-4EC0-86EB-A99486E87308}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8BF347-A3FF-4449-BC5F-BBC7317581C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8BF347-A3FF-4449-BC5F-BBC7317581C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8BF347-A3FF-4449-BC5F-BBC7317581C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8BF347-A3FF-4449-BC5F-BBC7317581C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802D0133-2E29-40A6-AECE-88B924A40B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802D0133-2E29-40A6-AECE-88B924A40B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802D0133-2E29-40A6-AECE-88B924A40B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802D0133-2E29-40A6-AECE-88B924A40B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3736D7F5-0EA5-4EC0-86EB-A99486E87308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3736D7F5-0EA5-4EC0-86EB-A99486E87308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3736D7F5-0EA5-4EC0-86EB-A99486E87308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3736D7F5-0EA5-4EC0-86EB-A99486E87308}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

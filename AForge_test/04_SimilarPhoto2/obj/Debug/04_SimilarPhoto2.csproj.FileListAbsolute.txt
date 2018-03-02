@@ -1,0 +1,12 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\04_SimilarPhoto2\bin\Debug\04_SimilarPhoto2.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\04_SimilarPhoto2\obj\Debug\04_SimilarPhoto2.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\04_SimilarPhoto2\bin\Debug\04_SimilarPhoto2.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\04_SimilarPhoto2\bin\Debug\04_SimilarPhoto2.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\04_SimilarPhoto2\obj\Debug\04_SimilarPhoto2.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\04_SimilarPhoto2\obj\Debug\04_SimilarPhoto2.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\04_SimilarPhoto2\bin\Debug\04_SimilarPhoto2.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\04_SimilarPhoto2\bin\Debug\04_SimilarPhoto2.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\04_SimilarPhoto2\bin\Debug\04_SimilarPhoto2.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\04_SimilarPhoto2\obj\Debug\04_SimilarPhoto2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\04_SimilarPhoto2\obj\Debug\04_SimilarPhoto2.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\AForge_test\04_SimilarPhoto2\obj\Debug\04_SimilarPhoto2.pdb

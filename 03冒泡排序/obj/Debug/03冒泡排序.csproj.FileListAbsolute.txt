@@ -1,0 +1,5 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\03冒泡排序\bin\Debug\03冒泡排序.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\03冒泡排序\bin\Debug\03冒泡排序.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\03冒泡排序\bin\Debug\03冒泡排序.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\03冒泡排序\obj\Debug\03冒泡排序.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\03冒泡排序\obj\Debug\03冒泡排序.pdb

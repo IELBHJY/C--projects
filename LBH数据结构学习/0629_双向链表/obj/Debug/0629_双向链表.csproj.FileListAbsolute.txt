@@ -1,0 +1,9 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_双向链表\bin\Debug\0629_双向链表.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_双向链表\bin\Debug\0629_双向链表.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_双向链表\bin\Debug\0629_双向链表.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_双向链表\obj\Debug\0629_双向链表.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_双向链表\obj\Debug\0629_双向链表.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_双向链表\obj\Debug\0629_双向链表.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0629_双向链表\bin\Debug\0629_双向链表.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0629_双向链表\obj\Debug\0629_双向链表.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0629_双向链表\obj\Debug\0629_双向链表.pdb

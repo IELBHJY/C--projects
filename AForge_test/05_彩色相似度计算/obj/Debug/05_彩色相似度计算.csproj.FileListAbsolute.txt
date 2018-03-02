@@ -1,0 +1,1 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\AForge_test\05_彩色相似度计算\bin\Debug\05_彩色相似度计算.exe.config

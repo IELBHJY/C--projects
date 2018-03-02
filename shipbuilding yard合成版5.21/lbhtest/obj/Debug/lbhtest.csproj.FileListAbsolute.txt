@@ -1,0 +1,8 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\obj\Debug\lbhtest.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\obj\Debug\lbhtest.csproj.ResolveComReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\bin\Debug\lbhtest.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\bin\Debug\lbhtest.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\bin\Debug\lbhtest.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\obj\Debug\lbhtest.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\obj\Debug\lbhtest.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\lbhtest\bin\Debug\input database.accdb

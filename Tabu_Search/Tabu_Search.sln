@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1、经典Tabu", "1、经典Tabu\1、经典Tabu.csproj", "{B6216CC5-3BF0-43B3-B993-DD6E2B63A331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1", "test1\test1.csproj", "{0C14B442-B58B-439A-B034-9050A377195B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6216CC5-3BF0-43B3-B993-DD6E2B63A331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6216CC5-3BF0-43B3-B993-DD6E2B63A331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6216CC5-3BF0-43B3-B993-DD6E2B63A331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6216CC5-3BF0-43B3-B993-DD6E2B63A331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C14B442-B58B-439A-B034-9050A377195B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C14B442-B58B-439A-B034-9050A377195B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C14B442-B58B-439A-B034-9050A377195B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C14B442-B58B-439A-B034-9050A377195B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

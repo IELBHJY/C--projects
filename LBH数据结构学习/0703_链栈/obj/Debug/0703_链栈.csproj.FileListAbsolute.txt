@@ -1,0 +1,12 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_链栈\bin\Debug\0703_链栈.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_链栈\bin\Debug\0703_链栈.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_链栈\bin\Debug\0703_链栈.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_链栈\obj\Debug\0703_链栈.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_链栈\obj\Debug\0703_链栈.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_链栈\obj\Debug\0703_链栈.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0703_链栈\bin\Debug\0703_链栈.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0703_链栈\obj\Debug\0703_链栈.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0703_链栈\obj\Debug\0703_链栈.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0703_链栈\bin\Debug\0703_链栈.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0703_链栈\bin\Debug\0703_链栈.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0703_链栈\obj\Debug\0703_链栈.csprojResolveAssemblyReference.cache

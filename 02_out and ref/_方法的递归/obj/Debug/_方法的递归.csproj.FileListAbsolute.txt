@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法的递归\bin\Debug\_方法的递归.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法的递归\bin\Debug\_方法的递归.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法的递归\bin\Debug\_方法的递归.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法的递归\obj\Debug\_方法的递归.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法的递归\obj\Debug\_方法的递归.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法的递归\obj\Debug\_方法的递归.pdb

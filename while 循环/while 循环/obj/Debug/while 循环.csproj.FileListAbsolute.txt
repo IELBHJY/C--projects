@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\while 循环\while 循环\bin\Debug\while 循环.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\while 循环\while 循环\bin\Debug\while 循环.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\while 循环\while 循环\bin\Debug\while 循环.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\while 循环\while 循环\obj\Debug\while 循环.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\while 循环\while 循环\obj\Debug\while 循环.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\while 循环\while 循环\obj\Debug\while 循环.pdb

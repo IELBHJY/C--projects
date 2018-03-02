@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0323\0323\bin\Debug\0323.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0323\0323\bin\Debug\0323.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0323\0323\bin\Debug\0323.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0323\0323\obj\Debug\0323.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0323\0323\obj\Debug\0323.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0323\0323\obj\Debug\0323.pdb

@@ -1,0 +1,14 @@
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\bin\Debug\test.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\bin\Debug\test.exe
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\bin\Debug\test.pdb
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\test.csproj.ResolveComReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\test.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\test.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\test.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\test.exe
+c:\users\dell\documents\visual studio 2015\Projects\0709_复杂机电课程\test\obj\Debug\test.pdb

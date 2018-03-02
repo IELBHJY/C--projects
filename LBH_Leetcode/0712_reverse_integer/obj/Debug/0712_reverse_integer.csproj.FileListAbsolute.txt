@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0712_reverse_integer\bin\Debug\0712_reverse_integer.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0712_reverse_integer\bin\Debug\0712_reverse_integer.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0712_reverse_integer\bin\Debug\0712_reverse_integer.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0712_reverse_integer\obj\Debug\0712_reverse_integer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0712_reverse_integer\obj\Debug\0712_reverse_integer.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0712_reverse_integer\obj\Debug\0712_reverse_integer.pdb

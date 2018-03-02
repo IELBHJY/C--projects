@@ -1,0 +1,1 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\05_值类型与引用类型\bin\Debug\05_值类型与引用类型.exe.config

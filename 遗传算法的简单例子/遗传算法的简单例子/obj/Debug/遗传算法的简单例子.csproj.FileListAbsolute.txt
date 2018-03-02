@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\遗传算法的简单例子\遗传算法的简单例子\bin\Debug\遗传算法的简单例子.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\遗传算法的简单例子\遗传算法的简单例子\bin\Debug\遗传算法的简单例子.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\遗传算法的简单例子\遗传算法的简单例子\bin\Debug\遗传算法的简单例子.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\遗传算法的简单例子\遗传算法的简单例子\obj\Debug\遗传算法的简单例子.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\遗传算法的简单例子\遗传算法的简单例子\obj\Debug\遗传算法的简单例子.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\遗传算法的简单例子\遗传算法的简单例子\obj\Debug\遗传算法的简单例子.pdb

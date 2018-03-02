@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\Kinect_photos\Kinect_photo\bin\Debug\Kinect_photo.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Kinect_photos\Kinect_photo\bin\Debug\Kinect_photo.exe
+c:\users\dell\documents\visual studio 2015\Projects\Kinect_photos\Kinect_photo\bin\Debug\Kinect_photo.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Kinect_photos\Kinect_photo\obj\Debug\Kinect_photo.exe
+c:\users\dell\documents\visual studio 2015\Projects\Kinect_photos\Kinect_photo\obj\Debug\Kinect_photo.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\Kinect_photos\Kinect_photo\obj\Debug\Kinect_photo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\03_面向对象练习\bin\Debug\03_面向对象练习.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\03_面向对象练习\bin\Debug\03_面向对象练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\03_面向对象练习\bin\Debug\03_面向对象练习.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\03_面向对象练习\obj\Debug\03_面向对象练习.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\03_面向对象练习\obj\Debug\03_面向对象练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\03_面向对象练习\obj\Debug\03_面向对象练习.pdb

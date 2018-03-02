@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\readdata\bin\Debug\readdata.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\readdata\bin\Debug\readdata.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\readdata\bin\Debug\readdata.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\readdata\obj\Debug\readdata.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\readdata\obj\Debug\readdata.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\readdata\obj\Debug\readdata.csprojResolveAssemblyReference.cache

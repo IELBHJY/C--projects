@@ -1,0 +1,1 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\09_插入排序\bin\Debug\09_插入排序.exe.config

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_OpenCV", "test_OpenCV\test_OpenCV.vcxproj", "{53B08E6E-C849-4284-BEEC-D56DC2E0F460}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0610", "0610\0610.vcxproj", "{B7C4D08B-1B6C-4FC1-8FA4-25C585FB0A46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B08E6E-C849-4284-BEEC-D56DC2E0F460}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53B08E6E-C849-4284-BEEC-D56DC2E0F460}.Debug|Win32.Build.0 = Debug|Win32
+		{53B08E6E-C849-4284-BEEC-D56DC2E0F460}.Release|Win32.ActiveCfg = Release|Win32
+		{53B08E6E-C849-4284-BEEC-D56DC2E0F460}.Release|Win32.Build.0 = Release|Win32
+		{B7C4D08B-1B6C-4FC1-8FA4-25C585FB0A46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7C4D08B-1B6C-4FC1-8FA4-25C585FB0A46}.Debug|Win32.Build.0 = Debug|Win32
+		{B7C4D08B-1B6C-4FC1-8FA4-25C585FB0A46}.Release|Win32.ActiveCfg = Release|Win32
+		{B7C4D08B-1B6C-4FC1-8FA4-25C585FB0A46}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

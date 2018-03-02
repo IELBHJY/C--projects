@@ -1,0 +1,5 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\test\bin\Debug\test.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\test\bin\Debug\test.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\test\bin\Debug\test.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\test\obj\Debug\test.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\test\obj\Debug\test.pdb

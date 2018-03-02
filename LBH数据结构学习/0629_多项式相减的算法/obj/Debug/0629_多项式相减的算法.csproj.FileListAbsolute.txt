@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_多项式相减的算法\bin\Debug\0629_多项式相减的算法.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_多项式相减的算法\obj\Debug\0629_多项式相减的算法.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_多项式相减的算法\bin\Debug\0629_多项式相减的算法.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_多项式相减的算法\bin\Debug\0629_多项式相减的算法.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_多项式相减的算法\obj\Debug\0629_多项式相减的算法.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0629_多项式相减的算法\obj\Debug\0629_多项式相减的算法.pdb

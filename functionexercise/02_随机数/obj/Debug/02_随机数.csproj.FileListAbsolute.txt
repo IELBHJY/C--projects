@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\02_随机数\bin\Debug\02_随机数.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\02_随机数\bin\Debug\02_随机数.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\02_随机数\bin\Debug\02_随机数.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\02_随机数\obj\Debug\02_随机数.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\02_随机数\obj\Debug\02_随机数.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\02_随机数\obj\Debug\02_随机数.csprojResolveAssemblyReference.cache

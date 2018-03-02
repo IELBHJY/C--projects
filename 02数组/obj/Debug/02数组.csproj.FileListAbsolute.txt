@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\02数组\bin\Debug\02数组.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\02数组\bin\Debug\02数组.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02数组\bin\Debug\02数组.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\02数组\obj\Debug\02数组.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\02数组\obj\Debug\02数组.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02数组\obj\Debug\02数组.pdb

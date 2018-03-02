@@ -1,0 +1,5 @@
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法练习2\bin\Debug\_方法练习2.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法练习2\bin\Debug\_方法练习2.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法练习2\bin\Debug\_方法练习2.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法练习2\obj\Debug\_方法练习2.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_方法练习2\obj\Debug\_方法练习2.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_test", "01_test\01_test.csproj", "{0483ACA9-8063-441F-BD01-0C62091BC0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_similar_photo", "02_similar_photo\02_similar_photo.csproj", "{45DBE995-2CB5-47B3-AC0A-73B4169E94BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_计算照片相似度", "03_计算照片相似度\03_计算照片相似度.csproj", "{8504036E-32B6-4DC1-8C72-5D1F301B8FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SimilarPhoto2", "04_SimilarPhoto2\04_SimilarPhoto2.csproj", "{CC687DF0-3119-44DC-BA25-C7958B37E9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_基于彩色直方图相似度计算", "05_基于彩色直方图相似度计算\05_基于彩色直方图相似度计算.csproj", "{E5413791-EB34-4EFA-80AF-5F2C3DD59127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kinect_photos", "kinect_photos\kinect_photos.csproj", "{F63145A1-28EF-49EF-80B6-8FEE8E144C9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0483ACA9-8063-441F-BD01-0C62091BC0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0483ACA9-8063-441F-BD01-0C62091BC0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0483ACA9-8063-441F-BD01-0C62091BC0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0483ACA9-8063-441F-BD01-0C62091BC0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DBE995-2CB5-47B3-AC0A-73B4169E94BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DBE995-2CB5-47B3-AC0A-73B4169E94BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DBE995-2CB5-47B3-AC0A-73B4169E94BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DBE995-2CB5-47B3-AC0A-73B4169E94BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8504036E-32B6-4DC1-8C72-5D1F301B8FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8504036E-32B6-4DC1-8C72-5D1F301B8FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8504036E-32B6-4DC1-8C72-5D1F301B8FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8504036E-32B6-4DC1-8C72-5D1F301B8FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC687DF0-3119-44DC-BA25-C7958B37E9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC687DF0-3119-44DC-BA25-C7958B37E9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC687DF0-3119-44DC-BA25-C7958B37E9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC687DF0-3119-44DC-BA25-C7958B37E9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5413791-EB34-4EFA-80AF-5F2C3DD59127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5413791-EB34-4EFA-80AF-5F2C3DD59127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5413791-EB34-4EFA-80AF-5F2C3DD59127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5413791-EB34-4EFA-80AF-5F2C3DD59127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63145A1-28EF-49EF-80B6-8FEE8E144C9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63145A1-28EF-49EF-80B6-8FEE8E144C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63145A1-28EF-49EF-80B6-8FEE8E144C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63145A1-28EF-49EF-80B6-8FEE8E144C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

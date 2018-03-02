@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\数据交换2\数据交换2\bin\Debug\数据交换2.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\数据交换2\数据交换2\bin\Debug\数据交换2.exe
+c:\users\lbh\documents\visual studio 2012\Projects\数据交换2\数据交换2\bin\Debug\数据交换2.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\数据交换2\数据交换2\obj\Debug\数据交换2.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\数据交换2\数据交换2\obj\Debug\数据交换2.exe
+c:\users\lbh\documents\visual studio 2012\Projects\数据交换2\数据交换2\obj\Debug\数据交换2.pdb

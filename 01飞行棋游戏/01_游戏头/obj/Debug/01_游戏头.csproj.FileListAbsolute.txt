@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01飞行棋游戏\01_游戏头\bin\Debug\01_游戏头.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01飞行棋游戏\01_游戏头\bin\Debug\01_游戏头.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01飞行棋游戏\01_游戏头\bin\Debug\01_游戏头.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01飞行棋游戏\01_游戏头\obj\Debug\01_游戏头.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01飞行棋游戏\01_游戏头\obj\Debug\01_游戏头.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01飞行棋游戏\01_游戏头\obj\Debug\01_游戏头.pdb

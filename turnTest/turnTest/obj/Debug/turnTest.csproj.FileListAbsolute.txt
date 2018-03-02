@@ -1,0 +1,7 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\turnTest\bin\Debug\turnTest.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\turnTest\obj\Debug\turnTest.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\turnTest\bin\Debug\turnTest.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\turnTest\bin\Debug\turnTest.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\turnTest\obj\Debug\turnTest.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\turnTest\obj\Debug\turnTest.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\turnTest\turnTest\bin\Debug\input.accdb

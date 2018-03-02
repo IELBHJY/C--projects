@@ -1,0 +1,5 @@
+c:\users\lbh\documents\visual studio 2012\Projects\01方法练习\bin\Debug\01方法练习.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\01方法练习\bin\Debug\01方法练习.exe
+c:\users\lbh\documents\visual studio 2012\Projects\01方法练习\bin\Debug\01方法练习.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\01方法练习\obj\Debug\01方法练习.exe
+c:\users\lbh\documents\visual studio 2012\Projects\01方法练习\obj\Debug\01方法练习.pdb

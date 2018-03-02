@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\01结构\bin\Debug\01结构.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\01结构\obj\Debug\01结构.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\01结构\bin\Debug\01结构.exe
+c:\users\lbh\documents\visual studio 2012\Projects\01结构\bin\Debug\01结构.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\01结构\obj\Debug\01结构.exe
+c:\users\lbh\documents\visual studio 2012\Projects\01结构\obj\Debug\01结构.pdb

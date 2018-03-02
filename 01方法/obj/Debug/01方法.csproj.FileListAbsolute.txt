@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\01方法\bin\Debug\01方法.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\01方法\bin\Debug\01方法.exe
+c:\users\lbh\documents\visual studio 2012\Projects\01方法\bin\Debug\01方法.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\01方法\obj\Debug\01方法.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\01方法\obj\Debug\01方法.exe
+c:\users\lbh\documents\visual studio 2012\Projects\01方法\obj\Debug\01方法.pdb

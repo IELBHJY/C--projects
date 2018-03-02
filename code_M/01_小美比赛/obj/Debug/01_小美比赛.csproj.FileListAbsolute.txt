@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\01_小美比赛\bin\Debug\01_小美比赛.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\01_小美比赛\bin\Debug\01_小美比赛.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\01_小美比赛\bin\Debug\01_小美比赛.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\01_小美比赛\obj\Debug\01_小美比赛.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\01_小美比赛\obj\Debug\01_小美比赛.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\01_小美比赛\obj\Debug\01_小美比赛.pdb

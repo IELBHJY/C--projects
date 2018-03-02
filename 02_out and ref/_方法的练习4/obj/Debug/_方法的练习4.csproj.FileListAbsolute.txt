@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\02_out and ref\_方法的练习4\bin\Debug\_方法的练习4.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\02_out and ref\_方法的练习4\bin\Debug\_方法的练习4.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\02_out and ref\_方法的练习4\bin\Debug\_方法的练习4.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\02_out and ref\_方法的练习4\obj\Debug\_方法的练习4.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\02_out and ref\_方法的练习4\obj\Debug\_方法的练习4.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\02_out and ref\_方法的练习4\obj\Debug\_方法的练习4.pdb

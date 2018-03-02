@@ -1,0 +1,5 @@
+c:\users\lbh\documents\visual studio 2012\Projects\把文本输出到Oouput窗口\把文本输出到Oouput窗口\bin\Debug\把文本输出到Oouput窗口.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\把文本输出到Oouput窗口\把文本输出到Oouput窗口\bin\Debug\把文本输出到Oouput窗口.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\把文本输出到Oouput窗口\把文本输出到Oouput窗口\bin\Debug\把文本输出到Oouput窗口.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\把文本输出到Oouput窗口\把文本输出到Oouput窗口\obj\Debug\把文本输出到Oouput窗口.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\把文本输出到Oouput窗口\把文本输出到Oouput窗口\obj\Debug\把文本输出到Oouput窗口.pdb

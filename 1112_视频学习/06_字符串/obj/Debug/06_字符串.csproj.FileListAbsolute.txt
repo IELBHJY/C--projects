@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\06_字符串\bin\Debug\06_字符串.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\06_字符串\bin\Debug\06_字符串.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\06_字符串\bin\Debug\06_字符串.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\06_字符串\obj\Debug\06_字符串.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\06_字符串\obj\Debug\06_字符串.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\06_字符串\obj\Debug\06_字符串.pdb

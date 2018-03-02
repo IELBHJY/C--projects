@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\第四章练习二\第四章练习二\bin\Debug\第四章练习二.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\第四章练习二\第四章练习二\obj\Debug\第四章练习二.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\第四章练习二\第四章练习二\bin\Debug\第四章练习二.exe
+c:\users\lbh\documents\visual studio 2012\Projects\第四章练习二\第四章练习二\bin\Debug\第四章练习二.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\第四章练习二\第四章练习二\obj\Debug\第四章练习二.exe
+c:\users\lbh\documents\visual studio 2012\Projects\第四章练习二\第四章练习二\obj\Debug\第四章练习二.pdb

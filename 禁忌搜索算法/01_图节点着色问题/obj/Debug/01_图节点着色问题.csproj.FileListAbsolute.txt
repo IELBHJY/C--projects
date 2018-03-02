@@ -1,0 +1,9 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\01_图节点着色问题\bin\Debug\01_图节点着色问题.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\01_图节点着色问题\bin\Debug\01_图节点着色问题.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\01_图节点着色问题\bin\Debug\01_图节点着色问题.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\01_图节点着色问题\obj\Debug\01_图节点着色问题.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\01_图节点着色问题\obj\Debug\01_图节点着色问题.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\01_图节点着色问题\obj\Debug\01_图节点着色问题.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\禁忌搜索算法\01_图节点着色问题\bin\Debug\01_图节点着色问题.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\禁忌搜索算法\01_图节点着色问题\obj\Debug\01_图节点着色问题.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\禁忌搜索算法\01_图节点着色问题\obj\Debug\01_图节点着色问题.pdb

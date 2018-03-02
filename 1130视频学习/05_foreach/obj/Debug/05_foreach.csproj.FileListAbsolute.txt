@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\05_foreach\bin\Debug\05_foreach.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\05_foreach\bin\Debug\05_foreach.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\05_foreach\bin\Debug\05_foreach.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\05_foreach\obj\Debug\05_foreach.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\05_foreach\obj\Debug\05_foreach.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\05_foreach\obj\Debug\05_foreach.pdb

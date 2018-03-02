@@ -1,0 +1,21 @@
+c:\users\dell\documents\visual studio 2015\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.csproj.ResolveComReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.csproj.ResolveComReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.csprojResolveAssemblyReference.cache
+I:\code\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.exe.config
+I:\code\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.csproj.ResolveComReference.cache
+I:\code\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.exe
+I:\code\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.pdb
+I:\code\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.exe
+I:\code\Projects\Tabu_Search\1、经典Tabu\bin\Debug\1、经典Tabu.pdb
+I:\code\Projects\Tabu_Search\1、经典Tabu\obj\Debug\1、经典Tabu.csprojResolveAssemblyReference.cache

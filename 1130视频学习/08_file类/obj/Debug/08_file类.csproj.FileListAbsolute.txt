@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\08_file类\bin\Debug\08_file类.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\08_file类\bin\Debug\08_file类.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\08_file类\bin\Debug\08_file类.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\08_file类\obj\Debug\08_file类.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\08_file类\obj\Debug\08_file类.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\08_file类\obj\Debug\08_file类.csprojResolveAssemblyReference.cache

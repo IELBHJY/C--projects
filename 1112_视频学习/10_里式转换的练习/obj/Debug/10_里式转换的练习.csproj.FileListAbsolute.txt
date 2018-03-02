@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\10_里式转换的练习\bin\Debug\10_里式转换的练习.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\10_里式转换的练习\bin\Debug\10_里式转换的练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\10_里式转换的练习\bin\Debug\10_里式转换的练习.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\10_里式转换的练习\obj\Debug\10_里式转换的练习.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\10_里式转换的练习\obj\Debug\10_里式转换的练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1112_视频学习\10_里式转换的练习\obj\Debug\10_里式转换的练习.pdb

@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_顺序栈\bin\Debug\0703_顺序栈.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_顺序栈\bin\Debug\0703_顺序栈.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_顺序栈\bin\Debug\0703_顺序栈.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_顺序栈\obj\Debug\0703_顺序栈.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_顺序栈\obj\Debug\0703_顺序栈.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0703_顺序栈\obj\Debug\0703_顺序栈.pdb

@@ -1,0 +1,5 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_二分法搜索\bin\Debug\01_二分法搜索.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_二分法搜索\bin\Debug\01_二分法搜索.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_二分法搜索\bin\Debug\01_二分法搜索.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_二分法搜索\obj\Debug\01_二分法搜索.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_二分法搜索\obj\Debug\01_二分法搜索.pdb

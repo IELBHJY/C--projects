@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\路径规划\Flody\bin\Debug\Flody.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\路径规划\Flody\bin\Debug\Flody.exe
+c:\users\dell\documents\visual studio 2015\Projects\路径规划\Flody\bin\Debug\Flody.pdb
+c:\users\dell\documents\visual studio 2015\Projects\路径规划\Flody\obj\Debug\Flody.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\路径规划\Flody\obj\Debug\Flody.exe
+c:\users\dell\documents\visual studio 2015\Projects\路径规划\Flody\obj\Debug\Flody.pdb

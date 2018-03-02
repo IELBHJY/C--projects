@@ -1,0 +1,5 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1216_工厂方法模式\01_顾客餐厅实例\bin\Debug\01_顾客餐厅实例.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1216_工厂方法模式\01_顾客餐厅实例\bin\Debug\01_顾客餐厅实例.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1216_工厂方法模式\01_顾客餐厅实例\bin\Debug\01_顾客餐厅实例.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1216_工厂方法模式\01_顾客餐厅实例\obj\Debug\01_顾客餐厅实例.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1216_工厂方法模式\01_顾客餐厅实例\obj\Debug\01_顾客餐厅实例.pdb

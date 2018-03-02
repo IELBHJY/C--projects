@@ -1,0 +1,4 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0630_语音识别\0630_语音识别\bin\Debug\0630_语音识别.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0630_语音识别\0630_语音识别\obj\Debug\0630_语音识别.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0630_语音识别\0630_语音识别\obj\Debug\Interop.SpeechLib.dll
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0630_语音识别\0630_语音识别\obj\Debug\0630_语音识别.csproj.ResolveComReference.cache

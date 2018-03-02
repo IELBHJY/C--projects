@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\命令行参数\命令行参数\bin\Debug\命令行参数.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\命令行参数\命令行参数\bin\Debug\命令行参数.exe
+c:\users\lbh\documents\visual studio 2012\Projects\命令行参数\命令行参数\bin\Debug\命令行参数.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\命令行参数\命令行参数\obj\Debug\命令行参数.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\命令行参数\命令行参数\obj\Debug\命令行参数.exe
+c:\users\lbh\documents\visual studio 2012\Projects\命令行参数\命令行参数\obj\Debug\命令行参数.pdb

@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\07_线性搜索\bin\Debug\07_线性搜索.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\07_线性搜索\obj\Debug\07_线性搜索.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\07_线性搜索\bin\Debug\07_线性搜索.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\07_线性搜索\bin\Debug\07_线性搜索.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\07_线性搜索\obj\Debug\07_线性搜索.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\07_线性搜索\obj\Debug\07_线性搜索.pdb

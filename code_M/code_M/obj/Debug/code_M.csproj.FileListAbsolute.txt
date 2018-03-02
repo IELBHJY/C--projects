@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\code_M\bin\Debug\code_M.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\code_M\bin\Debug\code_M.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\code_M\bin\Debug\code_M.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\code_M\obj\Debug\code_M.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\code_M\obj\Debug\code_M.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\code_M\code_M\obj\Debug\code_M.pdb

@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\枚举\枚举\bin\Debug\枚举.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\枚举\枚举\obj\Debug\枚举.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\枚举\枚举\bin\Debug\枚举.exe
+c:\users\lbh\documents\visual studio 2012\Projects\枚举\枚举\bin\Debug\枚举.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\枚举\枚举\obj\Debug\枚举.exe
+c:\users\lbh\documents\visual studio 2012\Projects\枚举\枚举\obj\Debug\枚举.pdb

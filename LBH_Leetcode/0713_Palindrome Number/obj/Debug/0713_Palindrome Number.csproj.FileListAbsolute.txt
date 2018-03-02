@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0713_Palindrome Number\bin\Debug\0713_Palindrome Number.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0713_Palindrome Number\bin\Debug\0713_Palindrome Number.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0713_Palindrome Number\bin\Debug\0713_Palindrome Number.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0713_Palindrome Number\obj\Debug\0713_Palindrome Number.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0713_Palindrome Number\obj\Debug\0713_Palindrome Number.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH_Leetcode\0713_Palindrome Number\obj\Debug\0713_Palindrome Number.pdb

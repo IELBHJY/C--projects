@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_算法设计与分析\bin\Debug\01_算法设计与分析.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_算法设计与分析\bin\Debug\01_算法设计与分析.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_算法设计与分析\bin\Debug\01_算法设计与分析.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_算法设计与分析\obj\Debug\01_算法设计与分析.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_算法设计与分析\obj\Debug\01_算法设计与分析.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\01_算法设计与分析\obj\Debug\01_算法设计与分析.pdb

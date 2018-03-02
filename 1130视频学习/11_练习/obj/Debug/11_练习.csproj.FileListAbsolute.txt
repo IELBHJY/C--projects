@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\11_练习\bin\Debug\11_练习.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\11_练习\bin\Debug\11_练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\11_练习\bin\Debug\11_练习.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\11_练习\obj\Debug\11_练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\11_练习\obj\Debug\11_练习.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\11_练习\obj\Debug\11_练习.csprojResolveAssemblyReference.cache

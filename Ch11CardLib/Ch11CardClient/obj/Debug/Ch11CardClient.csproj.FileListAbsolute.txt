@@ -1,0 +1,2 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Ch11CardLib\Ch11CardClient\bin\Debug\Ch11CardClient.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\Ch11CardLib\Ch11CardClient\obj\Debug\Ch11CardClient.csprojResolveAssemblyReference.cache

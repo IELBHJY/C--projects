@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\lbh\lbh\bin\Debug\lbh.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\lbh\lbh\bin\Debug\lbh.exe
+c:\users\lbh\documents\visual studio 2012\Projects\lbh\lbh\bin\Debug\lbh.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\lbh\lbh\obj\Debug\lbh.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\lbh\lbh\obj\Debug\lbh.exe
+c:\users\lbh\documents\visual studio 2012\Projects\lbh\lbh\obj\Debug\lbh.pdb

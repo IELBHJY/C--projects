@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code_M", "code_M\code_M.csproj", "{404C4618-58D4-4122-8AEA-C0B2F7582F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_数码出现次数", "02_数码出现次数\02_数码出现次数.csproj", "{7B0B5CE5-9074-48AA-A524-69D3424937C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{D7C350F6-659C-4149-8F4F-4208C5243705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_小美比赛", "01_小美比赛\01_小美比赛.csproj", "{4C7ED272-2878-4417-8407-D1AEF7A74966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404C4618-58D4-4122-8AEA-C0B2F7582F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404C4618-58D4-4122-8AEA-C0B2F7582F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404C4618-58D4-4122-8AEA-C0B2F7582F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404C4618-58D4-4122-8AEA-C0B2F7582F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0B5CE5-9074-48AA-A524-69D3424937C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0B5CE5-9074-48AA-A524-69D3424937C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0B5CE5-9074-48AA-A524-69D3424937C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0B5CE5-9074-48AA-A524-69D3424937C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C350F6-659C-4149-8F4F-4208C5243705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C350F6-659C-4149-8F4F-4208C5243705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C350F6-659C-4149-8F4F-4208C5243705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C350F6-659C-4149-8F4F-4208C5243705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7ED272-2878-4417-8407-D1AEF7A74966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7ED272-2878-4417-8407-D1AEF7A74966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7ED272-2878-4417-8407-D1AEF7A74966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7ED272-2878-4417-8407-D1AEF7A74966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_params\bin\Debug\_params.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_params\bin\Debug\_params.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_params\bin\Debug\_params.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_params\obj\Debug\_params.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_params\obj\Debug\_params.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_params\obj\Debug\_params.pdb

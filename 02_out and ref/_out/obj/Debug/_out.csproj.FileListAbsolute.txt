@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_out\bin\Debug\_out.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_out\bin\Debug\_out.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_out\bin\Debug\_out.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_out\obj\Debug\_out.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_out\obj\Debug\_out.exe
+c:\users\lbh\documents\visual studio 2012\Projects\02_out and ref\_out\obj\Debug\_out.pdb

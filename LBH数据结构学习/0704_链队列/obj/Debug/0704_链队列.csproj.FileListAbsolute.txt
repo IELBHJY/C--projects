@@ -1,0 +1,2 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\LBH数据结构学习\0704_链队列\bin\Debug\0704_链队列.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\LBH数据结构学习\0704_链队列\bin\Debug\0704_链队列.exe.config

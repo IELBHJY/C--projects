@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1216_简单工厂模式", "1216_简单工厂模式\1216_简单工厂模式.csproj", "{EB827BB1-7023-4339-9DD4-A10629B4BE51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_顾客餐厅实例", "01_顾客餐厅实例\01_顾客餐厅实例.csproj", "{76CAEC61-94D7-4427-8FBC-4DB0A037E476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB827BB1-7023-4339-9DD4-A10629B4BE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB827BB1-7023-4339-9DD4-A10629B4BE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB827BB1-7023-4339-9DD4-A10629B4BE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB827BB1-7023-4339-9DD4-A10629B4BE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CAEC61-94D7-4427-8FBC-4DB0A037E476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CAEC61-94D7-4427-8FBC-4DB0A037E476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CAEC61-94D7-4427-8FBC-4DB0A037E476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CAEC61-94D7-4427-8FBC-4DB0A037E476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

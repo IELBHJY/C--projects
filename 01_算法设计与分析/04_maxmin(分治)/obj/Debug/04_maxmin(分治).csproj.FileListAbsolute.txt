@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\04_maxmin(分治)\bin\Debug\04_maxmin(分治).exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\04_maxmin(分治)\bin\Debug\04_maxmin(分治).exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\04_maxmin(分治)\bin\Debug\04_maxmin(分治).pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\04_maxmin(分治)\obj\Debug\04_maxmin(分治).csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\04_maxmin(分治)\obj\Debug\04_maxmin(分治).exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\04_maxmin(分治)\obj\Debug\04_maxmin(分治).pdb

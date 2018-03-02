@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\06_简繁转换\bin\Debug\06_简繁转换.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\06_简繁转换\bin\Debug\06_简繁转换.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\06_简繁转换\bin\Debug\06_简繁转换.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\06_简繁转换\obj\Debug\06_简繁转换.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\06_简繁转换\obj\Debug\06_简繁转换.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\06_简繁转换\obj\Debug\06_简繁转换.pdb

@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\01_随机偶数求和\bin\Debug\01_随机偶数求和.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\01_随机偶数求和\bin\Debug\01_随机偶数求和.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\01_随机偶数求和\bin\Debug\01_随机偶数求和.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\01_随机偶数求和\obj\Debug\01_随机偶数求和.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\01_随机偶数求和\obj\Debug\01_随机偶数求和.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\functionexercise\01_随机偶数求和\obj\Debug\01_随机偶数求和.pdb

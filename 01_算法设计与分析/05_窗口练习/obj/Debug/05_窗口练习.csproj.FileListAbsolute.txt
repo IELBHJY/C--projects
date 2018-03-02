@@ -1,0 +1,9 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\bin\Debug\05_窗口练习.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\bin\Debug\05_窗口练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\bin\Debug\05_窗口练习.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\obj\Debug\05_窗口练习.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\obj\Debug\_05_窗口练习.Form1.resources
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\obj\Debug\_05_窗口练习.Properties.Resources.resources
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\obj\Debug\05_窗口练习.csproj.GenerateResource.Cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\obj\Debug\05_窗口练习.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\01_算法设计与分析\05_窗口练习\obj\Debug\05_窗口练习.pdb

@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\20170116_抽象工厂模式\bin\Debug\20170116_抽象工厂模式.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\20170116_抽象工厂模式\bin\Debug\20170116_抽象工厂模式.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\20170116_抽象工厂模式\bin\Debug\20170116_抽象工厂模式.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\20170116_抽象工厂模式\obj\Debug\20170116_抽象工厂模式.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\20170116_抽象工厂模式\obj\Debug\20170116_抽象工厂模式.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\20170116_抽象工厂模式\obj\Debug\20170116_抽象工厂模式.pdb

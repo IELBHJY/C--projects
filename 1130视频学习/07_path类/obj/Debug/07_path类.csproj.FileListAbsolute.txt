@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\07_path类\bin\Debug\07_path类.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\07_path类\bin\Debug\07_path类.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\07_path类\bin\Debug\07_path类.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\07_path类\obj\Debug\07_path类.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\07_path类\obj\Debug\07_path类.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\1130视频学习\07_path类\obj\Debug\07_path类.csprojResolveAssemblyReference.cache

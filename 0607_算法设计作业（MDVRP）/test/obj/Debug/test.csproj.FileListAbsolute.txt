@@ -1,0 +1,6 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\test\bin\Debug\test.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\test\bin\Debug\test.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\test\bin\Debug\test.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\test\obj\Debug\test.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\test\obj\Debug\test.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\test\obj\Debug\test.csprojResolveAssemblyReference.cache

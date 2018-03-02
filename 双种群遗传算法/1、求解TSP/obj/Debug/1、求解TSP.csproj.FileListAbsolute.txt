@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2015\Projects\双种群遗传算法\1、求解TSP\bin\Debug\1、求解TSP.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\双种群遗传算法\1、求解TSP\bin\Debug\1、求解TSP.exe
+c:\users\dell\documents\visual studio 2015\Projects\双种群遗传算法\1、求解TSP\bin\Debug\1、求解TSP.pdb
+c:\users\dell\documents\visual studio 2015\Projects\双种群遗传算法\1、求解TSP\obj\Debug\1、求解TSP.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\双种群遗传算法\1、求解TSP\obj\Debug\1、求解TSP.csproj.ResolveComReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\双种群遗传算法\1、求解TSP\obj\Debug\1、求解TSP.exe
+c:\users\dell\documents\visual studio 2015\Projects\双种群遗传算法\1、求解TSP\obj\Debug\1、求解TSP.pdb

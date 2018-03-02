@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\订单价格\订单价格\bin\Debug\订单价格.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\订单价格\订单价格\bin\Debug\订单价格.exe
+c:\users\lbh\documents\visual studio 2012\Projects\订单价格\订单价格\bin\Debug\订单价格.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\订单价格\订单价格\obj\Debug\订单价格.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\订单价格\订单价格\obj\Debug\订单价格.exe
+c:\users\lbh\documents\visual studio 2012\Projects\订单价格\订单价格\obj\Debug\订单价格.pdb

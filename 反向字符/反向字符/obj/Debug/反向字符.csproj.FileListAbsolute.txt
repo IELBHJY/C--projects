@@ -1,0 +1,6 @@
+c:\users\lbh\documents\visual studio 2012\Projects\反向字符\反向字符\bin\Debug\反向字符.exe.config
+c:\users\lbh\documents\visual studio 2012\Projects\反向字符\反向字符\bin\Debug\反向字符.exe
+c:\users\lbh\documents\visual studio 2012\Projects\反向字符\反向字符\bin\Debug\反向字符.pdb
+c:\users\lbh\documents\visual studio 2012\Projects\反向字符\反向字符\obj\Debug\反向字符.csprojResolveAssemblyReference.cache
+c:\users\lbh\documents\visual studio 2012\Projects\反向字符\反向字符\obj\Debug\反向字符.exe
+c:\users\lbh\documents\visual studio 2012\Projects\反向字符\反向字符\obj\Debug\反向字符.pdb

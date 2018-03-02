@@ -1,0 +1,16 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\0607_算法设计作业（MDVRP）.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\obj\Debug\0607_算法设计作业（MDVRP）.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\MDVRP.accdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\0607_算法设计作业（MDVRP）.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\0607_算法设计作业（MDVRP）.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\obj\Debug\0607_算法设计作业（MDVRP）.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\obj\Debug\0607_算法设计作业（MDVRP）.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\0607_算法设计作业（MDVRP）.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\obj\Debug\0607_算法设计作业（MDVRP）.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\obj\Debug\0607_算法设计作业（MDVRP）.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\MDVRP.accdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\0607_算法设计作业（MDVRP）.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\0607_算法设计作业（MDVRP）.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\cscompmgd.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\bin\Debug\Microsoft.Office.Tools.Excel.v9.0.dll
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\0607_算法设计作业（MDVRP）\0607_算法设计作业（MDVRP）\obj\Debug\0607_算法设计作业（MDVRP）.csprojResolveAssemblyReference.cache

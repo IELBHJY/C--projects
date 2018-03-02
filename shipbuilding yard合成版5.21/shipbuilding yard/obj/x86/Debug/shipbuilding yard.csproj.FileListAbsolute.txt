@@ -1,0 +1,275 @@
+C:\Users\chenkai\Desktop\智能船厂\program\shipbuilding yard\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\chenkai\Desktop\智能船厂\program\shipbuilding yard\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\智能船厂\program\shipbuilding yard\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\智能船厂\program\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\智能船厂\program\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\船厂项目备份\shipbuilding yard\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\船厂项目备份\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\船厂项目备份\shipbuilding yard\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+D:\船厂项目备份\shipbuilding yard20160329\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+D:\船厂项目备份\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\船厂项目备份\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\船厂项目备份\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\船厂项目备份\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+D:\船厂项目备份\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+D:\船厂项目备份\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\WORK\科研和项目\船厂物联网项目\程序\20160410\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\WORK\科研和项目\船厂物联网项目\程序\20160417\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\WORK\科研和项目\船厂物联网项目\程序\20160424\shipbuilding yard合成版\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版4.24\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\Office.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\bin\Debug\Office.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\Office.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\bin\Debug\Office.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 - 副本\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\Office.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\bin\Debug\Office.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版4.24-三个人 -参数传递成功，但还报错\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\Office.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\bin\Debug\Office.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.3\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Office.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Office.xml
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\HuangYing\Desktop\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\chenkai\Desktop\smart shipbuilding\program\20160504\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+I:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+I:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+I:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+D:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+D:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+D:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+D:\shipbuilding yard合成版5.4\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+D:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+D:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+D:\shipbuilding yard合成版5.4\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Office.dll
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Office.xml
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\m\Desktop\5-8\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.6\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+D:\WORK\科研和项目\船厂物联网项目\程序\20160509\shipbuilding yard合成版5.8\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+D:\WORK\科研和项目\船厂物联网项目\程序\20160509\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+D:\WORK\科研和项目\船厂物联网项目\程序\20160509\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\chenkai\Desktop\smart shipbuilding\program\shipbuilding yard合成版5.8\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\lbh\Desktop\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\lbh\Desktop\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\lbh\Desktop\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Office.xml
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+E:\李柏鹤研一\C#\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\shipbuilding yard.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\shipbuilding yard.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\shipbuilding yard.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\bin\Debug\Office.xml
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form1.resources
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding_yard.Form2.resources
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\shipbuilding yard合成版5.21\shipbuilding yard\obj\x86\Debug\shipbuilding yard.csproj.GenerateResource.Cache

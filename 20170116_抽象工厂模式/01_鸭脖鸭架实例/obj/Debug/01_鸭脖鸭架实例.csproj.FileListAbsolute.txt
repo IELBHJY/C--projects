@@ -1,0 +1,5 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\01_鸭脖鸭架实例\bin\Debug\01_鸭脖鸭架实例.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\01_鸭脖鸭架实例\bin\Debug\01_鸭脖鸭架实例.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\01_鸭脖鸭架实例\bin\Debug\01_鸭脖鸭架实例.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\01_鸭脖鸭架实例\obj\Debug\01_鸭脖鸭架实例.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\20170116_抽象工厂模式\01_鸭脖鸭架实例\obj\Debug\01_鸭脖鸭架实例.pdb

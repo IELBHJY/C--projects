@@ -1,0 +1,9 @@
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\禁忌搜索算法\bin\Debug\禁忌搜索算法.exe.config
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\禁忌搜索算法\bin\Debug\禁忌搜索算法.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\禁忌搜索算法\bin\Debug\禁忌搜索算法.pdb
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\禁忌搜索算法\obj\Debug\禁忌搜索算法.csprojResolveAssemblyReference.cache
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\禁忌搜索算法\obj\Debug\禁忌搜索算法.exe
+C:\Users\lbh\Documents\Visual Studio 2012\Projects\禁忌搜索算法\禁忌搜索算法\obj\Debug\禁忌搜索算法.pdb
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\禁忌搜索算法\禁忌搜索算法\bin\Debug\禁忌搜索算法.exe.config
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\禁忌搜索算法\禁忌搜索算法\obj\Debug\禁忌搜索算法.exe
+C:\Users\DELL\Documents\Visual Studio 2015\Projects\禁忌搜索算法\禁忌搜索算法\obj\Debug\禁忌搜索算法.pdb
